@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-179.gif" alt="GIF image">
 
-< img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="GIF image">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="GIF image">
